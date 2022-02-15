@@ -1,0 +1,15 @@
+<body>
+  <h1>Body tag</h1>
+  <p>All the visible part of the webpage lies in body tag.</p>
+  <img src="cat.jpg" alt="image of a cat">
+  <video src="F:\mirzapur 2" width="300" controls></video>
+  <h1>This is heading 1</h1>
+<p>This is some text.</p>
+<h2>An Unordered HTML List</h2>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+<h2>An Ordered HTML List</h2>
+</body>
